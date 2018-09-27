@@ -1,2 +1,2 @@
 # Unity-Apps-Course
-Unity apps course
+This are the files of the apps tutorials I follow
